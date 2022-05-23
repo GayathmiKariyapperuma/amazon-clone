@@ -1,11 +1,13 @@
 import React from "react";
 import Book from "./Book";
+import Mixer from "./Mixer";
 
 function Product() {
   return (
     <div class="product">
       <div class="product_row d-flex">
         <Book />
+        <Mixer />
         <div class="product_body">
           <div class="product_description">
             <p>Samsung LC49RG90SSUXEN 49' Curved LED Gaming Monitor</p>
