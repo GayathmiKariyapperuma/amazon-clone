@@ -4,7 +4,7 @@ function Tracker() {
   return (
     <div class="product_body">
       <div class="product_description">
-        <p>Samsung LC49RG90SSUXEN 49' Curved LED Gaming Monitor</p>
+        <p>Fitbit Charge 3 Fitness Activity Tracker</p>
       </div>
       <div class="product_price">
         <p>
