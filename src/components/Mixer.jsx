@@ -1,6 +1,6 @@
 import React from "react";
 
-function Banner() {
+function Mixer() {
   return (
     <div class="product_body">
       <div class="product_description">
@@ -40,4 +40,4 @@ function Banner() {
   );
 }
 
-export default Banner;
+export default Mixer;
