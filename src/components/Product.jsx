@@ -13,6 +13,8 @@ function Product() {
         <Book />
         <Mixer />
         <Tracker />
+      </div>
+      <div class="product_row d-flex">
         <Echo />
         <Ipad />
         <Monitor />
